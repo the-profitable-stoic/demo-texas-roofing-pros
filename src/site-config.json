@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Texas Roofing Pros",
+    "phone": "+18176553716",
+    "category": "siding installer",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Siding Done Right, Guaranteed.",
+      "heroSubline": "Protecting Arlington homes with expert siding installation. Durable materials, proven craftsmanship, and unwavering commitment to quality.",
+      "aboutTitle": "Arlington's Trusted Siding Experts",
+      "aboutText": [
+        "Texas Roofing Pros started with a simple mission: to provide Arlington homeowners with reliable, high-quality siding solutions. We saw too many homes damaged by the Texas weather, and knew we could offer a better defense.",
+        "We're not just installers; we're siding specialists. From meticulous prep work to flawless finishing, we handle every detail with precision. Our commitment is to exceeding expectations on every project, big or small.",
+        "Being local means more than just knowing the area. It means understanding the unique needs of our neighbors and contributing to the community's well-being. We source materials locally whenever possible and actively support Arlington initiatives."
+      ],
+      "valueProps": [
+        {
+          "title": "Weather-Resistant Siding",
+          "description": "Engineered to withstand Texas' extreme temperatures, hail, and wind, ensuring lasting protection for your home."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced crew follows industry-leading practices for a seamless, durable, and visually appealing siding installation."
+        },
+        {
+          "title": "Custom Design Options",
+          "description": "Choose from a wide selection of colors, styles, and materials to match your home's architecture and personal preferences."
+        },
+        {
+          "title": "Unmatched Warranty",
+          "description": "We stand behind our work with a comprehensive warranty, giving you peace of mind and long-term protection."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today!",
+      "ctaSubline": "Get a free, no-obligation siding consultation and discover the difference quality makes."
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable, affordable, and virtually maintenance-free vinyl siding for Arlington homes.",
+        "description": "Vinyl siding remains a popular choice for homeowners in Arlington, TX, due to its affordability, durability, and ease of maintenance. Texas Roofing Pros specializes in expert vinyl siding installation, ensuring a perfect fit and long-lasting protection against the elements. We offer a wide range of colors, styles, and textures to complement any home's architecture. \n\nOur installation process begins with a thorough inspection of your home's exterior to identify any existing damage or potential issues. We then carefully prepare the surface, ensuring it's clean, level, and ready to receive the new siding. Our skilled installers use precise techniques to properly fasten the vinyl panels, creating a weather-tight seal that protects your home from moisture, wind, and pests. We pay close attention to detail, ensuring that all corners, edges, and trim are properly installed for a seamless and professional finish.\n\nWe only use high-quality vinyl siding products from trusted manufacturers, guaranteeing that your new siding will withstand the harsh Texas weather for years to come. Our vinyl siding is resistant to fading, cracking, and warping, and requires minimal maintenance. Simply wash it down with a garden hose occasionally to keep it looking its best. With Texas Roofing Pros, you can enjoy the beauty and durability of vinyl siding without the hassle of constant repairs or upkeep.",
+        "process": [
+          "Step 1: Initial consultation and property assessment",
+          "Step 2: Material selection and design planning",
+          "Step 3: Precise measurements and custom fabrication",
+          "Step 4: Professional installation with meticulous attention to detail"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Low maintenance and long-lasting durability"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding installation take?",
+            "answer": "Installation time depends on the size and complexity of the project, but most vinyl siding installations are completed within a few days."
+          },
+          {
+            "question": "Is vinyl siding energy efficient?",
+            "answer": "Yes, vinyl siding can improve your home's energy efficiency by providing an extra layer of insulation, reducing heat loss in the winter and heat gain in the summer."
+          },
+          {
+            "question": "How do I clean my vinyl siding?",
+            "answer": "Vinyl siding can be easily cleaned with a soft brush or cloth and a mild detergent. Avoid using harsh chemicals or abrasive cleaners, as they can damage the siding."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable, fire-resistant fiber cement siding for lasting beauty and protection.",
+        "description": "Fiber cement siding is a premium option that offers exceptional durability, fire resistance, and aesthetic appeal. Texas Roofing Pros is a certified installer of fiber cement siding, ensuring that your home receives the highest level of protection and beauty. Fiber cement siding is made from a blend of cement, sand, and cellulose fibers, creating a material that is incredibly strong and resistant to damage from weather, pests, and fire.\n\nOur fiber cement siding installation process is meticulous and precise. We start by carefully removing any existing siding and inspecting the underlying structure for damage. We then install a moisture barrier to protect your home from water damage. Our skilled installers use specialized tools and techniques to properly cut, fasten, and seal the fiber cement panels, creating a seamless and weather-tight finish. We pay close attention to detail, ensuring that all corners, edges, and trim are perfectly aligned for a professional and aesthetically pleasing result.\n\nFiber cement siding is available in a wide range of styles, textures, and colors to complement any home's architecture. It can be painted to match your existing color scheme or pre-finished with a durable coating that resists fading and chipping. With Texas Roofing Pros, you can enjoy the beauty and durability of fiber cement siding for decades to come.",
+        "process": [
+          "Step 1: Thorough inspection of existing siding and structure",
+          "Step 2: Precise cutting and shaping of fiber cement boards",
+          "Step 3: Expert installation with weather-resistant sealants",
+          "Step 4: Painting or pre-finishing to match your desired aesthetic"
+        ],
+        "benefits": [
+          "Exceptional fire resistance",
+          "Superior durability and longevity",
+          "Resistance to pests and rot",
+          "Versatile design options and color choices"
+        ],
+        "faq": [
+          {
+            "question": "Is fiber cement siding more expensive than vinyl siding?",
+            "answer": "Yes, fiber cement siding is generally more expensive than vinyl siding due to its superior durability and fire resistance."
+          },
+          {
+            "question": "Does fiber cement siding require painting?",
+            "answer": "Fiber cement siding can be painted or pre-finished. Pre-finished siding offers a durable, factory-applied coating that resists fading and chipping."
+          },
+          {
+            "question": "How long will fiber cement siding last?",
+            "answer": "With proper installation and maintenance, fiber cement siding can last for 50 years or more."
+          }
+        ]
+      },
+      {
+        "slug": "insulated-siding-installation",
+        "name": "Insulated Siding Installation",
+        "shortDescription": "Boost your home's energy efficiency with insulated siding. Save money and stay comfortable.",
+        "description": "Insulated siding combines the beauty of traditional siding with the added benefit of enhanced energy efficiency. Texas Roofing Pros offers expert insulated siding installation, helping homeowners in Arlington reduce their energy bills and improve their home's comfort. Insulated siding features a layer of rigid foam insulation that is attached to the back of the siding panel. This insulation helps to reduce heat loss in the winter and heat gain in the summer, keeping your home warmer in the winter and cooler in the summer.\n\nOur insulated siding installation process is designed to maximize energy savings and ensure a long-lasting, weather-tight seal. We start by carefully removing any existing siding and inspecting the underlying structure for damage. We then install a moisture barrier to protect your home from water damage. Our skilled installers use specialized techniques to properly fasten the insulated siding panels, creating a seamless and energy-efficient barrier. We pay close attention to detail, ensuring that all corners, edges, and trim are properly sealed to prevent air leakage.\n\nInsulated siding is available in a variety of styles, colors, and textures to complement any home's architecture. It is also resistant to fading, cracking, and warping, and requires minimal maintenance. With Texas Roofing Pros, you can enjoy the beauty of traditional siding with the added benefit of significant energy savings.",
+        "process": [
+          "Step 1: Energy audit to identify areas of heat loss",
+          "Step 2: Selection of high-performance insulated siding",
+          "Step 3: Precise installation with air-tight sealing",
+          "Step 4: Verification of energy savings and comfort improvement"
+        ],
+        "benefits": [
+          "Reduced energy bills",
+          "Improved home comfort",
+          "Enhanced soundproofing",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "How much can I save on energy bills with insulated siding?",
+            "answer": "Energy savings vary depending on the climate, the size of your home, and the type of siding you choose, but insulated siding can reduce energy bills by up to 20%."
+          },
+          {
+            "question": "Is insulated siding more expensive than traditional siding?",
+            "answer": "Yes, insulated siding is generally more expensive than traditional siding due to the added cost of the insulation."
+          },
+          {
+            "question": "Does insulated siding require special maintenance?",
+            "answer": "No, insulated siding requires the same minimal maintenance as traditional siding. Simply wash it down with a garden hose occasionally to keep it looking its best."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair",
+        "shortDescription": "Fast, reliable siding repair services to protect your home from the elements.",
+        "description": "Even the most durable siding can sustain damage from the elements, accidents, or wear and tear. Texas Roofing Pros offers prompt and reliable siding repair services to homeowners in Arlington, TX. We understand that damaged siding can compromise your home's protection and curb appeal, which is why we offer fast and efficient repair services to get your home back in top shape.\n\nOur experienced technicians are skilled in repairing all types of siding, including vinyl, fiber cement, wood, and metal. We can handle a wide range of repairs, from replacing damaged panels to fixing cracks, holes, and loose seams. We use high-quality materials and proven techniques to ensure that your siding is repaired properly and will withstand the harsh Texas weather for years to come.\n\nWe offer emergency siding repair services for urgent situations, such as storm damage or water leaks. We will respond quickly to your call and provide a temporary fix to prevent further damage until a permanent repair can be made. With Texas Roofing Pros, you can rest assured that your siding repair needs are in good hands.",
+        "process": [
+          "Step 1: Thorough damage assessment and diagnosis",
+          "Step 2: Sourcing of matching siding materials",
+          "Step 3: Precise repair or replacement of damaged sections",
+          "Step 4: Seamless blending and color matching for a flawless finish"
+        ],
+        "benefits": [
+          "Restored protection from the elements",
+          "Improved curb appeal",
+          "Prevention of further damage",
+          "Extended lifespan of your siding"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Signs that your siding needs repair include cracks, holes, loose panels, water stains, and mold or mildew growth."
+          },
+          {
+            "question": "Can you match the color of my existing siding?",
+            "answer": "Yes, we can match the color of your existing siding. We have access to a wide range of colors and can also custom-match colors to ensure a seamless repair."
+          },
+          {
+            "question": "How long does siding repair take?",
+            "answer": "The length of time it takes to repair siding depends on the extent of the damage, but most repairs can be completed within a day or two."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Upgrade your home with new siding. Boost value, efficiency, and curb appeal.",
+        "description": "When siding is severely damaged, outdated, or no longer providing adequate protection, siding replacement is the best solution. Texas Roofing Pros offers comprehensive siding replacement services to homeowners in Arlington, TX. We will help you choose the right siding material and style to enhance your home's beauty, value, and energy efficiency.\n\nOur siding replacement process begins with a thorough inspection of your home's exterior to assess the condition of your existing siding and identify any underlying issues. We will then work with you to select the perfect siding material and style to match your home's architecture and personal preferences. We offer a wide range of siding options, including vinyl, fiber cement, wood, and metal.\n\nOur skilled installers will carefully remove your old siding and prepare the surface for the new siding. We will then install a moisture barrier to protect your home from water damage. Our installers use precise techniques to properly fasten the new siding panels, creating a weather-tight seal that protects your home from the elements. We pay close attention to detail, ensuring that all corners, edges, and trim are properly installed for a seamless and professional finish.",
+        "process": [
+          "Step 1: Detailed consultation and design selection",
+          "Step 2: Complete removal and disposal of old siding",
+          "Step 3: Installation of moisture barrier and flashing",
+          "Step 4: Precise installation of new siding with expert craftsmanship"
+        ],
+        "benefits": [
+          "Enhanced curb appeal and increased home value",
+          "Improved energy efficiency and reduced energy bills",
+          "Long-lasting protection from the elements",
+          "Modernized look and updated style"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right siding material for my home?",
+            "answer": "The best siding material for your home depends on your budget, your aesthetic preferences, and the climate in your area. We can help you weigh the pros and cons of each material and choose the one that is right for you."
+          },
+          {
+            "question": "How much does siding replacement cost?",
+            "answer": "The cost of siding replacement varies depending on the size of your home, the type of siding you choose, and the complexity of the installation. We offer free estimates to help you budget for your project."
+          },
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The length of time it takes to replace siding depends on the size of your home and the complexity of the project, but most siding replacements are completed within a week."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-repair",
+        "name": "Soffit and Fascia Repair",
+        "shortDescription": "Protect your roof and improve ventilation with expert soffit and fascia repair.",
+        "description": "Soffit and fascia play a critical role in protecting your roof and preventing water damage to your home. Texas Roofing Pros offers professional soffit and fascia repair services to homeowners in Arlington, TX. We understand that damaged soffit and fascia can lead to serious problems, such as roof leaks, wood rot, and pest infestations, which is why we offer prompt and reliable repair services to keep your home protected.\n\nSoffit is the material that covers the underside of your roof overhang, while fascia is the trim that runs along the edge of your roof. Together, they protect your roof from the elements and provide ventilation to prevent moisture buildup. Our experienced technicians are skilled in repairing all types of soffit and fascia, including wood, vinyl, and aluminum.\n\nWe can handle a wide range of repairs, from replacing damaged sections to fixing cracks, holes, and loose seams. We use high-quality materials and proven techniques to ensure that your soffit and fascia are repaired properly and will withstand the harsh Texas weather for years to come. We also offer soffit and fascia replacement services for homeowners who need to replace their existing soffit and fascia.",
+        "process": [
+          "Step 1: Inspection of soffit and fascia for damage",
+          "Step 2: Repair or replacement of damaged sections",
+          "Step 3: Sealing and painting for weather protection",
+          "Step 4: Ensuring proper ventilation and drainage"
+        ],
+        "benefits": [
+          "Protection against water damage and pests",
+          "Improved roof ventilation",
+          "Enhanced curb appeal",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of damaged soffit and fascia?",
+            "answer": "Signs of damaged soffit and fascia include rotting wood, peeling paint, water stains, and pest infestations."
+          },
+          {
+            "question": "How often should I inspect my soffit and fascia?",
+            "answer": "You should inspect your soffit and fascia at least once a year, or more often if you live in an area with severe weather."
+          },
+          {
+            "question": "Can you match the color of my existing soffit and fascia?",
+            "answer": "Yes, we can match the color of your existing soffit and fascia. We have access to a wide range of colors and can also custom-match colors to ensure a seamless repair."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "Texas Roofing Pros is proud to offer top-quality siding installation and repair services to homeowners in Dallas, TX. From the historic neighborhoods filled with charming 1950s ranch-style homes to the modern developments popping up across the city, we've got the experience and expertise to handle any siding project. We understand the unique challenges posed by the Dallas climate, including hot, humid summers and occasional severe weather, and we offer siding solutions that are both beautiful and durable. \n\nWhether you're looking to upgrade your home's curb appeal, improve energy efficiency, or protect your property from the elements, Texas Roofing Pros has the perfect siding solution for you. We offer a wide variety of siding materials, including vinyl, fiber cement, and wood, and we'll work with you to choose the best option for your needs and budget. Contact us today for a free consultation!",
+        "localContext": "Dallas's diverse architecture, from mid-century ranches to modern builds, requires a siding contractor with a wide range of expertise. Texas Roofing Pros offers solutions tailored to Dallas's hot, humid climate.",
+        "nearbyAreas": [
+          "Garland",
+          "Irving",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "Texas Roofing Pros is dedicated to serving the siding needs of Fort Worth residents. We understand the unique character of Fort Worth, from the historic craftsman bungalows near downtown to the newer developments in the suburbs. Our team is skilled in working with a variety of siding materials and styles, ensuring that your home's siding complements its architectural style and enhances its curb appeal.\n\nWe're committed to providing exceptional service and quality workmanship on every project. Whether you need a minor repair or a complete siding replacement, Texas Roofing Pros is the team to trust. We'll work closely with you to find the perfect siding solution for your home and budget.",
+        "localContext": "Fort Worth's blend of historic and modern homes requires a siding contractor familiar with diverse architectural styles. Texas Roofing Pros provides siding solutions that respect the city's unique character and withstand its hot summers.",
+        "nearbyAreas": [
+          "Arlington",
+          "North Richland Hills",
+          "Benbrook"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "Texas Roofing Pros proudly serves the Plano, TX area, providing expert siding installation and repair services. We understand the common architectural styles found in Plano's established subdivisions, primarily homes built in the 1980s and 1990s. Our team is experienced in working with a variety of siding materials popular during that era, as well as modern options that can enhance your home's energy efficiency and curb appeal.\n\nWe are committed to providing Plano homeowners with reliable and affordable siding solutions. We take pride in our workmanship and stand behind our products, ensuring your complete satisfaction. Contact us today for a free estimate and let us help you protect and beautify your Plano home.",
+        "localContext": "Plano's established subdivisions often feature homes built in the 80s and 90s. Texas Roofing Pros understands the siding needs for these homes while also offering modern upgrades.",
+        "nearbyAreas": [
+          "Richardson",
+          "Allen",
+          "Frisco"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "Texas Roofing Pros is your trusted siding expert in Frisco, TX. Known for its newer construction homes built in the 2000s and 2020s, Frisco requires a siding contractor familiar with modern materials and installation techniques. We offer a wide range of siding options to complement the contemporary styles prevalent in the area, ensuring your home looks its best and is protected from the elements.\n\nWe understand the importance of energy efficiency in today's homes, and we offer siding solutions that can help you save money on your energy bills. Whether you're building a new home or upgrading your existing siding, Texas Roofing Pros has the expertise and experience to get the job done right. Contact us today for a free consultation!",
+        "localContext": "Frisco's prevalence of new construction demands siding contractors familiar with the latest materials and installation techniques. Texas Roofing Pros offers modern siding solutions tailored to Frisco homes.",
+        "nearbyAreas": [
+          "Little Elm",
+          "Prosper",
+          "The Colony"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "Texas Roofing Pros is pleased to offer our siding services to the residents of McKinney, TX. We appreciate the historic charm of McKinney, especially the homes found in and around the downtown area. We are experienced in working with a variety of siding materials that complement the architectural styles found in older homes, while also offering modern options for newer constructions.\n\nOur goal is to provide McKinney homeowners with top-quality siding solutions that enhance their home's beauty and protect it from the elements. We are committed to providing exceptional customer service and ensuring your complete satisfaction. Contact us today to learn more about our siding services and schedule a free consultation.",
+        "localContext": "McKinney's historic downtown features beautiful older homes. Texas Roofing Pros provides siding solutions that respect the city's heritage while offering modern durability.",
+        "nearbyAreas": [
+          "Allen",
+          "Prosper",
+          "Fairview"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "As your local siding experts, Texas Roofing Pros is proud to serve the Arlington, TX community. We understand the diverse architectural styles found throughout Arlington, from cozy bungalows to modern family homes. Our team is skilled in working with a wide range of siding materials, ensuring that your home's siding complements its style and enhances its curb appeal.\n\nWe are committed to providing Arlington homeowners with exceptional service and quality workmanship on every project. Whether you need a minor repair or a complete siding replacement, Texas Roofing Pros is the team to trust. We'll work closely with you to find the perfect siding solution for your home and budget.",
+        "localContext": "Arlington's diverse housing stock requires a siding contractor with broad expertise. Texas Roofing Pros understands local needs and provides customized siding solutions.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Mansfield",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Garland",
+        "slug": "garland-tx",
+        "state": "TX",
+        "content": "Texas Roofing Pros extends its expert siding services to the residents of Garland, TX. With a mix of established neighborhoods and newer developments, Garland presents a variety of siding needs. We are experienced in working with a range of siding materials, from traditional vinyl to durable fiber cement, ensuring your home is both beautiful and protected.\n\nWe are committed to providing Garland homeowners with reliable and affordable siding solutions. We take pride in our workmanship and stand behind our products, ensuring your complete satisfaction. Contact us today for a free estimate and let us help you protect and beautify your Garland home.",
+        "localContext": "Garland's mix of older and newer homes requires a siding contractor familiar with various architectural styles. Texas Roofing Pros offers solutions tailored to Garland's climate and aesthetic preferences.",
+        "nearbyAreas": [
+          "Mesquite",
+          "Richardson",
+          "Sachse"
+        ]
+      },
+      {
+        "city": "Irving",
+        "slug": "irving-tx",
+        "state": "TX",
+        "content": "Texas Roofing Pros is dedicated to providing top-notch siding services to the Irving, TX community. We understand the unique character of Irving, with its mix of residential and commercial properties. Our team is skilled in working with a variety of siding materials and styles, ensuring that your home or business's siding complements its architectural style and enhances its curb appeal.\n\nWe're committed to providing exceptional service and quality workmanship on every project. Whether you need a minor repair or a complete siding replacement, Texas Roofing Pros is the team to trust. We'll work closely with you to find the perfect siding solution for your property and budget.",
+        "localContext": "Irving's diverse property types, including residential and commercial, require a siding contractor with versatile skills. Texas Roofing Pros delivers tailored solutions for all Irving properties.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Dallas",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Richardson",
+        "slug": "richardson-tx",
+        "state": "TX",
+        "content": "Texas Roofing Pros is proud to offer comprehensive siding services to homeowners in Richardson, TX. Known for its well-maintained neighborhoods and diverse housing styles, Richardson requires a siding contractor with experience in various materials and installation techniques. We offer a wide range of siding options to complement any architectural style, ensuring your home looks its best and is protected from the elements.\n\nWe understand the importance of energy efficiency in today's homes, and we offer siding solutions that can help you save money on your energy bills. Whether you're upgrading your existing siding or building a new home, Texas Roofing Pros has the expertise and experience to get the job done right. Contact us today for a free consultation!",
+        "localContext": "Richardson's well-maintained neighborhoods require a siding contractor focused on quality and aesthetics. Texas Roofing Pros provides siding solutions that enhance Richardson homes.",
+        "nearbyAreas": [
+          "Plano",
+          "Garland",
+          "Dallas"
+        ]
+      },
+      {
+        "city": "Grand Prairie",
+        "slug": "grand-prairie-tx",
+        "state": "TX",
+        "content": "Texas Roofing Pros is your reliable source for siding installation and repair in Grand Prairie, TX. From established neighborhoods to newer developments, Grand Prairie boasts a variety of architectural styles. Our team is experienced in working with a wide range of siding materials, ensuring that your home's siding complements its style and enhances its curb appeal.\n\nWe are committed to providing Grand Prairie homeowners with exceptional service and quality workmanship on every project. Whether you need a minor repair or a complete siding replacement, Texas Roofing Pros is the team to trust. We'll work closely with you to find the perfect siding solution for your home and budget.",
+        "localContext": "Grand Prairie's diverse architectural styles demand a siding contractor with versatile skills and material knowledge. Texas Roofing Pros offers customized solutions for every home.",
+        "nearbyAreas": [
+          "Arlington",
+          "Irving",
+          "Dallas"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Texas Roofing Pros did an amazing job installing new vinyl siding on my Arlington home! The crew was professional, efficient, and the siding looks fantastic. They even cleaned up thoroughly afterward. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "I had some storm damage to my siding in North Arlington. Texas Roofing Pros came out quickly and repaired it seamlessly. The price was fair, and the work was top-notch.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "Fiber Cement Siding Installation",
+        "text": "We chose fiber cement siding for its durability and fire resistance. Texas Roofing Pros did a fantastic job with the installation. The crew was professional, and the finished product is beautiful.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Insulated Siding Installation",
+        "text": "We replaced our old siding with insulated siding, and we've already noticed a difference in our energy bills. Texas Roofing Pros did a great job with the installation. They were professional, courteous, and efficient.",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Soffit and Fascia Repair",
+        "text": "Texas Roofing Pros repaired some damaged soffit and fascia on my home. They were prompt, professional, and did a great job. I would definitely use them again.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "Our old siding was falling apart, so we decided to replace it. Texas Roofing Pros helped us choose the right siding for our home and did an excellent job with the installation. Our house looks brand new!",
+        "date": "2024-12-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Arlington TX Siding Installation | Texas Roofing Pros",
+        "description": "Expert siding installation in Arlington TX. Vinyl, fiber cement, insulated siding. Protect your home with Texas Roofing Pros."
+      },
+      "about": {
+        "title": "About Texas Roofing Pros | Arlington TX Siding",
+        "description": "Learn about Texas Roofing Pros, Arlington's trusted siding installer. Quality, durability, and local expertise."
+      },
+      "services": {
+        "title": "Siding Services | Texas Roofing Pros Arlington",
+        "description": "Vinyl siding, fiber cement, insulated siding repair & installation in Arlington TX. Free estimates."
+      },
+      "contact": {
+        "title": "Contact Texas Roofing Pros | Arlington TX Siding",
+        "description": "Contact Texas Roofing Pros for siding installation and repair in Arlington, TX. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Texas Roofing Pros Reviews | Arlington TX Siding",
+        "description": "Read reviews of Texas Roofing Pros from satisfied customers in Arlington, TX. Siding installation & repair experts."
+      },
+      "service-areas": {
+        "title": "Siding Service Areas | Texas Roofing Pros",
+        "description": "Texas Roofing Pros provides siding installation and repair services throughout the Dallas-Fort Worth metroplex."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "insulated-siding-installation": "/images/service-insulated-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "soffit-and-fascia-repair": "/images/service-soffit-and-fascia-repair.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "insulated-siding-installation": {
+        "src": "/images/service-insulated-siding-installation.webp",
+        "srcset": "/images/service-insulated-siding-installation-400w.webp 400w, /images/service-insulated-siding-installation-800w.webp 800w, /images/service-insulated-siding-installation-1200w.webp 1200w, /images/service-insulated-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-repair": {
+        "src": "/images/service-soffit-and-fascia-repair.webp",
+        "srcset": "/images/service-soffit-and-fascia-repair-400w.webp 400w, /images/service-soffit-and-fascia-repair-800w.webp 800w, /images/service-soffit-and-fascia-repair-1200w.webp 1200w, /images/service-soffit-and-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
